@@ -12,3 +12,6 @@ Como referencia tenemos la siguiente tabla.
     - Audio
     - Botón
     - Lista de elementos
+
+Clase05
+https://www.youtube.com/watch?v=eBkKPtPEGSI&list=PL9LIrEiirmm9kpKuLAjXeu7QVXW8cxut6&index=6
